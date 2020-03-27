@@ -1,6 +1,6 @@
 # Example of Graphql Application with NodeJS
 
-## Based on
+## Available from
 
 * https://www.youtube.com/watch?v=oD8GqurXZ-0
 
